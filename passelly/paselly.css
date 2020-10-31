@@ -1,0 +1,278 @@
+html {
+    font-size: 62.5%;
+    width: 100%;
+  }
+
+.navbar-brand {
+    font-size: 20px;
+}
+
+.navbar-nav > .item {
+    font-size: 15px;
+}
+
+#free-register-btn {
+    padding: 20px 30px;
+    font-size: 14px;
+}
+
+
+.item {
+    padding-right: 30px;
+    font-weight: 800;
+}
+
+/* ここからメインのコンテンツ */
+
+
+.top-contents {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    height: 100vh;
+    margin-bottom: 100px;
+}
+
+.top-content-left {
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+
+.top-content-left > .top-title {
+    font-size: 5em;
+    color: red;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+.top-content-left > .top-description {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.top-content-left > .register-button a {
+    margin-bottom: 20px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+.top-content-left > .login-button a {
+    border-radius: 50px;
+    font-size: 18px;
+}
+
+.top-content-right > .top-image img {
+    width: 100%;
+    display: block;
+}
+
+.sub-catchphrase {
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.sub-title {
+    font-size: 4em;
+    font-weight: 800;
+}
+
+.sub-title span {
+    color: #57c5a5;
+    font-weight: 800;
+}
+
+.sub-description {
+    font-size: 2em;
+}
+
+.sub-description > .under-line {
+    background: linear-gradient(transparent 50%, yellow 50%);
+}
+
+.paselly-can-do {
+    text-align: center;
+}
+
+.paselly-can-do h1 {
+    font-size: 7em;
+    font-weight: 1000;
+    margin-bottom: 100px;
+}
+
+.cards {
+    margin-bottom: 200px;
+}
+
+.card {
+    height: 350px;
+    margin-bottom: 30px;
+}
+
+.card-move {
+    margin-bottom: 20px;
+}
+
+.card > h3.card-title {
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.card > p.card-description {
+    font-size: 2em;
+    margin: 20px 40px;
+}
+
+
+.card-icon-warapper {
+    padding: 50px 0;
+
+}
+
+.green {
+    color: #57c5a5;
+}
+
+.cloud-info {
+    margin-bottom: 200px;
+}
+
+.center-title {
+    text-align: center;
+    font-size: 6em;
+    font-weight: bold;
+    margin-bottom: 200px;
+}
+
+.left-cloud-info > .cloud-title {
+    font-size: 5em;
+    font-weight: 800;
+    margin-bottom: 5%;
+}
+
+.left-cloud-info > .cloud-description {
+    font-size: 2em;
+    font-weight: 400;
+}
+
+.task-info {
+    margin-bottom: 400px;
+    display: flex;
+    align-items: center;
+}
+
+.left-task-image img{
+    width: 100%;
+}
+
+
+.right-task-info h1 {
+    font-size: 5em;
+    margin-bottom: 5%;
+    font-weight: 800;
+}
+
+.right-task-info p {
+    font-size: 2em;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.botton-ex-large {
+    padding: 5% 10%;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.notice {
+    font-size: 6em;
+    font-weight: 900;
+    margin-bottom: 200px;
+}
+
+.large-card {
+    padding: 5%;
+}
+
+.large-card-title {
+    margin-top: 5%;
+}
+
+.large-card-day-ago {
+    margin: 10px 0 5% 0%;
+    color: #7d8a93;
+}
+
+.large-card-description {
+    font-size: 2em;
+    color: #7d8a93;
+}
+
+.more {
+    font-size: 2em;
+}
+
+.all-watch-btn {
+    display: flex;
+    margin-bottom: 200px;
+}
+
+.comment-btn {
+    padding: 15px 40px;
+    font-size: large;
+}
+.create-account {
+    margin-bottom: 300px;
+}
+
+.left-create-account h1 {
+    font-size: 4em;
+    font-weight: 900;
+}
+
+.left-create-account p {
+    font-size: 2em;
+}
+
+.right-create-account {
+    width: 100%;
+}
+
+.right-create-account a {
+    padding: 2% 0;
+    font-size: 2em;
+}
+
+.container-warapper {
+    width: 100vw;
+    height: 400px;
+    background-color: #2F80ED;
+}
+
+.footer-items {
+    width: 200px;
+    list-style: none;
+}
+
+.footer-item {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.footer-item a {
+    color: white;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.footer-icon {
+    margin: 0 20px;
+    color: white;
+}
